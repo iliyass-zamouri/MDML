@@ -1,4 +1,5 @@
 # Malware Detection using machine learning (MDML)
+// CONFIGURED TO LAUNCH IN HEROKU
 
 ## Running it locally
 
