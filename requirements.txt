@@ -11,5 +11,4 @@ ssdeep
 xgboost
 yara-python
 streamlit
-signify
-matplotlib
+
