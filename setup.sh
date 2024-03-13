@@ -14,3 +14,7 @@ enableCORS=false\n\
 port = $PORT\n\
 maxUploadSize = 10\n\
 " > ~/.streamlit/config.toml
+
+pip install --upgrade pip
+pip3 install signify
+pip3 install matplotlib
